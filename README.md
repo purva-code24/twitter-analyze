@@ -61,8 +61,5 @@ The primary business problem addressed in this project is to analyze and underst
 - Benchmarking sentiment against competitors.
 - Real-time monitoring and user engagement.
 
-## Author
 
-- Stephen Ogaja
-- stephenogaja@gmail.com
 # twitter-analyze
